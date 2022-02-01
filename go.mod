@@ -1,4 +1,4 @@
-module github.com/mandolyte/mdtopdf
+module github.com/PostKassa-2021/mdtopdf
 
 go 1.15
 
